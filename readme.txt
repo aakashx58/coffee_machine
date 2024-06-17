@@ -19,5 +19,6 @@ transactions for purchasing drinks.
 - python <File_Name>
 - Eg: python main.py
 
-# How to ## Screenshot
-<img height="400" src="">
+## Screenshot
+<img height="400" src="https://github.com/aakashx58/billionaire_app/assets/106716824/82b765ef-66ed-4153-9d1a-8df45f36414b">
+
