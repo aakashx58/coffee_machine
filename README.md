@@ -20,5 +20,4 @@ transactions for purchasing drinks.
 - Eg: python main.py
 
 ## Screenshot
-<img height="400" src="https://github.com/aakashx58/billionaire_app/assets/106716824/82b765ef-66ed-4153-9d1a-8df45f36414b">
-
+<img height="400" src="https://github.com/aakashx58/coffee_machine/assets/106716824/257f1bc5-5fdf-41fd-b184-9029e66c2c78">
